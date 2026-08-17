@@ -1,10 +1,5 @@
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/7dbf513f-09fa-4642-8c6e-b8cd63ce0dbb
-
-## Run Locally
+# Live Demo:
+https://nextjs-restaurant-menu.vercel.app/
 
 **Prerequisites:**  Node.js
 
